@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F8FBFA"/>
+  <rect x="70" y="64" width="940" height="1222" rx="42" fill="#FFFFFF" stroke="#DCEAE6" stroke-width="3"/>
+  <text x="110" y="128" fill="#178371" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="2">PARENT CHECKLIST</text>
+  <text x="110" y="210" fill="#0C2D4E" font-family="Arial, sans-serif" font-size="54" font-weight="800">접종 전후,</text>
+  <text x="110" y="280" fill="#0C2D4E" font-family="Arial, sans-serif" font-size="54" font-weight="800">이것만은 확인하세요</text>
+  <line x1="110" y1="326" x2="970" y2="326" stroke="#BFE4D8" stroke-width="6" stroke-linecap="round"/>
+  <text x="130" y="402" fill="#178371" font-family="Arial, sans-serif" font-size="32" font-weight="800">접종 전</text>
+  <g font-family="Arial, sans-serif">
+    <circle cx="145" cy="475" r="28" fill="#DDF3EB"/><text x="145" y="485" text-anchor="middle" fill="#11705F" font-size="25" font-weight="800">✓</text>
+    <text x="200" y="467" fill="#0C2D4E" font-size="31" font-weight="700">예방접종 기록 준비</text><text x="200" y="509" fill="#607080" font-size="24">수첩 또는 예방접종도우미 기록 확인</text>
+    <circle cx="145" cy="605" r="28" fill="#DDF3EB"/><text x="145" y="615" text-anchor="middle" fill="#11705F" font-size="25" font-weight="800">✓</text>
+    <text x="200" y="597" fill="#0C2D4E" font-size="31" font-weight="700">당일 건강 상태 알리기</text><text x="200" y="639" fill="#607080" font-size="24">발열·증상·알레르기·복용 약 전달</text>
+    <circle cx="145" cy="735" r="28" fill="#DDF3EB"/><text x="145" y="745" text-anchor="middle" fill="#11705F" font-size="25" font-weight="800">✓</text>
+    <text x="200" y="727" fill="#0C2D4E" font-size="31" font-weight="700">의료기관에 미리 확인</text><text x="200" y="769" fill="#607080" font-size="24">접종 가능 여부와 운영 시간 확인</text>
+  </g>
+  <rect x="110" y="830" width="860" height="3" fill="#E2EBE8"/>
+  <text x="130" y="900" fill="#2D5D8A" font-family="Arial, sans-serif" font-size="32" font-weight="800">접종 후</text>
+  <circle cx="145" cy="971" r="28" fill="#E6EEF8"/><text x="145" y="981" text-anchor="middle" fill="#2D5D8A" font-size="25" font-weight="800">✓</text>
+  <text x="200" y="963" fill="#0C2D4E" font-family="Arial, sans-serif" font-size="31" font-weight="700">안내받은 시간 동안 관찰</text><text x="200" y="1005" fill="#607080" font-family="Arial, sans-serif" font-size="24">귀가 후에도 아이 상태를 살펴보세요.</text>
+  <circle cx="145" cy="1101" r="28" fill="#FFF0D9"/><text x="145" y="1111" text-anchor="middle" fill="#8A5F19" font-size="25" font-weight="800">!</text>
+  <text x="200" y="1093" fill="#0C2D4E" font-family="Arial, sans-serif" font-size="31" font-weight="700">심한 반응은 즉시 도움 요청</text><text x="200" y="1135" fill="#607080" font-family="Arial, sans-serif" font-size="24">호흡곤란·얼굴 부종·의식 저하 등</text>
+  <text x="110" y="1252" fill="#178371" font-family="Arial, sans-serif" font-size="24" font-weight="700">Healthy Parenting Lab</text>
+</svg>
