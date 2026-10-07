@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F8FBFA"/>
+  <rect x="70" y="64" width="940" height="1222" rx="42" fill="#FFFFFF" stroke="#DCEAE6" stroke-width="3"/>
+  <text x="110" y="128" fill="#178371" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="2">BABY · VACCINATION</text>
+  <text x="110" y="210" fill="#0C2D4E" font-family="Arial, sans-serif" font-size="54" font-weight="800">한 번일까요,</text>
+  <text x="110" y="280" fill="#0C2D4E" font-family="Arial, sans-serif" font-size="54" font-weight="800">두 번일까요?</text>
+  <rect x="110" y="352" width="390" height="620" rx="34" fill="#E7F5F0"/>
+  <circle cx="305" cy="475" r="78" fill="#BFE4D8"/><text x="305" y="496" text-anchor="middle" fill="#0C2D4E" font-family="Arial, sans-serif" font-size="64" font-weight="800">1</text>
+  <text x="305" y="600" text-anchor="middle" fill="#0C2D4E" font-family="Arial, sans-serif" font-size="38" font-weight="800">일반적인 경우</text>
+  <text x="305" y="665" text-anchor="middle" fill="#40576B" font-family="Arial, sans-serif" font-size="28">이번 절기</text>
+  <text x="305" y="708" text-anchor="middle" fill="#40576B" font-family="Arial, sans-serif" font-size="28">불활성화 3가 백신</text>
+  <text x="305" y="751" text-anchor="middle" fill="#40576B" font-family="Arial, sans-serif" font-size="28">1회 접종</text>
+  <text x="305" y="858" text-anchor="middle" fill="#60786F" font-family="Arial, sans-serif" font-size="24">과거 접종력이 충분한지</text>
+  <text x="305" y="894" text-anchor="middle" fill="#60786F" font-family="Arial, sans-serif" font-size="24">기록으로 확인하세요.</text>
+  <rect x="580" y="352" width="390" height="620" rx="34" fill="#EEF3FA"/>
+  <circle cx="775" cy="475" r="78" fill="#CADCF1"/><text x="775" y="496" text-anchor="middle" fill="#0C2D4E" font-family="Arial, sans-serif" font-size="64" font-weight="800">2</text>
+  <text x="775" y="600" text-anchor="middle" fill="#0C2D4E" font-family="Arial, sans-serif" font-size="38" font-weight="800">일부 9세 미만</text>
+  <text x="775" y="664" text-anchor="middle" fill="#40576B" font-family="Arial, sans-serif" font-size="27">처음 접종하거나</text>
+  <text x="775" y="706" text-anchor="middle" fill="#40576B" font-family="Arial, sans-serif" font-size="27">접종력을 모르거나</text>
+  <text x="775" y="748" text-anchor="middle" fill="#40576B" font-family="Arial, sans-serif" font-size="27">2026.6.30.까지</text>
+  <text x="775" y="790" text-anchor="middle" fill="#40576B" font-family="Arial, sans-serif" font-size="27">총 1회만 맞은 경우</text>
+  <text x="775" y="868" text-anchor="middle" fill="#60748B" font-family="Arial, sans-serif" font-size="24">2회 대상이 될 수 있어요.</text>
+  <rect x="110" y="1038" width="860" height="138" rx="26" fill="#FFF3DE"/>
+  <text x="540" y="1090" text-anchor="middle" fill="#7A571C" font-family="Arial, sans-serif" font-size="28" font-weight="800">나이만으로 결정하지 않습니다</text>
+  <text x="540" y="1135" text-anchor="middle" fill="#6F6251" font-family="Arial, sans-serif" font-size="25">접종 기록을 준비해 예진 의료진과 횟수·간격을 확인하세요.</text>
+  <text x="110" y="1252" fill="#178371" font-family="Arial, sans-serif" font-size="24" font-weight="700">Healthy Parenting Lab</text>
+</svg>
